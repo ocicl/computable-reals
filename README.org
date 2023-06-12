@@ -1,0 +1,10 @@
+* computable-reals
+
+Arbitrary precision, automatic re-computing real numbers in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tarballs-are-good/computable-reals.git   |
+| commit  | b2aad89  |
+| systems | computable-reals |
+|---------+-------------------------------------------|
+
